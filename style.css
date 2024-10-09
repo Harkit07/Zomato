@@ -233,7 +233,7 @@
 
 .box3inner {
     height: 100%;
-    width: 50vw;
+    width: 65%;
     display: flex;
 }
 
@@ -322,7 +322,7 @@
 
 .b4inner {
     height: 80%;
-    width: 60%;
+    width: 90%;
 }
 
 .b4inner #p {
@@ -337,7 +337,6 @@
     border-radius: 0.5rem;
     border: 1px dotted grey;
     background-color: white;
-    display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
@@ -365,6 +364,7 @@
     text-decoration: none;
     color: #828282;
     font-size: 1rem;
+    list-style-type: none;
 }
 
 .places a{
